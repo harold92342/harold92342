@@ -38,8 +38,8 @@ I deliver projects and turn their data into clear decisions: cost and schedule t
 - 🇬🇧 PMO dashboard for the capital portfolio of a copper mine (32 projects, Pulse → Diagnose → Decide logic). Star schema (5 dimensions, 7 facts, 17 relationships). Earned value DAX measures (PV, EV, AC, EAC, CPI, SPI). Power Query cleaning: man-hours and incidents booked after project closure are removed to correct the safety KPI. Every KPI reconciled against independent Python calculations.
 
 ### [Copperbelt GeoAI](https://github.com/harold92342/copperbelt-geoai) — Python · Isolation Forest · Streamlit
-- 🇫🇷 Détection d'anomalies géochimiques pour l'exploration cuivre-cobalt dans le Copperbelt de la RDC.
-- 🇬🇧 Geochemical anomaly detection for Cu-Co exploration in the DRC Copperbelt.
+- 🇫🇷 Tableau de bord Streamlit : Isolation Forest pour repérer les districts miniers atypiques de la RDC, premier tri pour l'exploration cuivre-cobalt.
+- 🇬🇧 Streamlit dashboard: Isolation Forest to flag outlying DRC mining districts, a first screening step for Cu-Co exploration.
 
 ### [Excel Sales Analytics – Atliq](https://github.com/harold92342/Excel-Sales-Analytics-for-Atliq-company) — Excel
 - 🇫🇷 Analyse des ventes et tableau de bord Excel.
