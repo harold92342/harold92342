@@ -37,6 +37,10 @@ I deliver projects and turn their data into clear decisions: cost and schedule t
 - 🇫🇷 Tableau de bord PMO pour le portefeuille d'investissement d'une mine de cuivre (32 projets, logique Pulse → Diagnose → Decide). Modèle en étoile (5 dimensions, 7 faits, 17 relations). Mesures DAX de valeur acquise (PV, EV, AC, EAC, CPI, SPI). Nettoyage dans Power Query : les heures et incidents saisis après la clôture des projets sont retirés pour corriger le KPI sécurité. Chaque KPI est rapproché de calculs Python indépendants.
 - 🇬🇧 PMO dashboard for the capital portfolio of a copper mine (32 projects, Pulse → Diagnose → Decide logic). Star schema (5 dimensions, 7 facts, 17 relationships). Earned value DAX measures (PV, EV, AC, EAC, CPI, SPI). Power Query cleaning: man-hours and incidents booked after project closure are removed to correct the safety KPI. Every KPI reconciled against independent Python calculations.
 
+### [Project Controls in SQL](https://github.com/harold92342/project-controls-sql) — SQLite · SQL (CTE, window functions) · Python
+- 🇫🇷 Le contrôle de projets du même portefeuille minier calculé uniquement en SQL : valeur acquise, dépassement prévisionnel, règle de décision, risques en retard, sécurité et 9 contrôles qualité. Un test rapproche 17 chiffres du dashboard Power BI : 17 sur 17 concordent.
+- 🇬🇧 Project controls for the same mining portfolio calculated in SQL only: earned value, forecast overrun, decision rule, overdue risks, safety and 9 data-quality checks. A test reconciles 17 figures with the Power BI dashboard: 17 out of 17 match.
+
 ### [Copperbelt GeoAI](https://github.com/harold92342/copperbelt-geoai) — Python · Isolation Forest · Streamlit
 - 🇫🇷 Tableau de bord Streamlit : Isolation Forest pour repérer les districts miniers atypiques de la RDC, premier tri pour l'exploration cuivre-cobalt.
 - 🇬🇧 Streamlit dashboard: Isolation Forest to flag outlying DRC mining districts, a first screening step for Cu-Co exploration.
