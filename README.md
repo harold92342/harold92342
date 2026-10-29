@@ -1,4 +1,4 @@
-# 👋 Timothée Kabwe Zumbi
+# 👋 Timothée Kabwe
 
 **🇫🇷 Project & Data Professional | PMP® | Power BI · DAX · Python · SQL | Industrie minière**
 Je pilote des projets et je transforme leurs données en décisions claires : suivi des coûts et des délais, KPI fiables, tableaux de bord et détection d'anomalies.
